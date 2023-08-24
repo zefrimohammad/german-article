@@ -787,7 +787,7 @@ var myWords = [
     ["der Ausflug", "", "الرحلة"],
     ["der Fernseher", "", ""],
     ["das Sofa", "", "الكنبة"],
-    ["die Waschmachine", "", "غسالة الملابس"],
+    ["die Waschmaschine", "", "غسالة الملابس"],
     ["die Seife", "", "الصابون"],
     ["das Handtuch", "", "المنشفة"],
     ["die Schwäche", "", "الضعف"],
